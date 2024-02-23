@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+ <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
@@ -37,6 +37,7 @@
         #path4558 {
             animation: changeColor 5s ease-in-out infinite; /* Adjust duration and timing function as needed */
         }
+      
     </style>  
    </defs>
   <sodipodi:namedview
@@ -93,41 +94,50 @@
        y="101.35869"
        rx="1.3363495"
        ry="1.4699852" />
+     
     <g
        id="g4901">
+    
       <path
          sodipodi:nodetypes="cccccccccccccccccc"
          inkscape:connector-curvature="0"
          id="path4526"
          d="m 101.73891,119.24998 v 75 l 17.32065,9.9998 21.65035,12.50001 21.65087,12.50001 21.65036,12.50001 v -25.00002 -25.00002 -25.00003 l -21.65036,-12.50001 -21.65087,-12.4995 -21.65035,-12.50001 z m 4.33013,7.5 73.61213,42.49987 v 65.00016 l -73.61213,-42.50003 z"
          style="fill:#999999;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      
       <path
          inkscape:connector-curvature="0"
          id="path4528"
          d="m 101.73888,194.24987 -8.659941,5.00021 h -5.2e-4 l -38.97075,22.49992 -17.3209,9.99991 82.273011,47.49994 64.95159,-37.50004 z"
          style="fill:#666666;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path4558"
          d="m 106.06904,191.74998 v -65 l 73.61216,42.5 v 65 z"
          style="fill:#000042;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+     
       <path
          sodipodi:nodetypes="ccccccc"
          inkscape:connector-curvature="0"
          id="path4560"
          d="m 36.787009,231.74998 v 5 l 82.272411,47.5 64.95191,-37.5 v -5 l -64.95191,37.5 z"
          style="fill:#999999;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        
       <path
          sodipodi:nodetypes="ccccc"
          inkscape:connector-curvature="0"
          id="path4562"
          d="m 67.097899,224.24998 30.31088,-17.5 64.951911,37.5 -30.31089,17.5 z"
          style="fill:#e6e6e6;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+
+         <text id="status" x="135" y="155" font-family="Arial" font-size="10" fill="black" transform="rotate(27 105 100)">Currently Coding</text>
       <g
          transform="translate(2.1459905,69.74998)"
          style="fill:#b3b3b3"
          id="g4801">
+        
         <path
            style="fill:#b3b3b3;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
            d="m 95.262789,142 4.33013,2.5 -4.33013,2.5 -4.33012,-2.5 z"
