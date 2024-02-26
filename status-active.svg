@@ -130,7 +130,7 @@
          d="m 67.097899,224.24998 30.31088,-17.5 64.951911,37.5 -30.31089,17.5 z"
          style="fill:#e6e6e6;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
 
-      <text id="status" x="145" y="155" font-family="Arial" font-size="10" fill="black" transform="rotate(27 105 100)">MT Guardian</text>
+      <text id="status" x="145" y="155" font-family="Arial" font-size="10" fill="black" transform="rotate(27 105 100)">PomoTracker</text>
       <g
          transform="translate(2.1459905,69.74998)"
          style="fill:#b3b3b3"
